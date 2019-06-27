@@ -1,0 +1,25 @@
+d.left{
+    color:red;
+    font-size:40px;
+}
+.right{
+    color:blue;
+    font-size: 40px;
+}
+#t1 {
+    color :blue;
+    }
+
+#t2.right{
+        boder:1px solid #ccc;
+    }
+h1#t1{
+    background:pink;
+}
+.header ul{
+    border:1px;
+    
+}
+.header ul>li:nth-child(3){
+    background-color: blueviolet;
+}
